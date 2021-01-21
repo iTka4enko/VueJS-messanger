@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Andika';
+    src: local('AndikaNewBasic Regular'), local('AndikaNewBasic-Regular'),
+      url('~@/assets/fonts/AndikaNewBasic/AndikaNewBasic-Regular.woff') format('woff'),
+      url('~@/assets/fonts/AndikaNewBasic/AndikaNewBasic-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Andika';
+    src: local('AndikaNewBasic Bold'), local('AndikaNewBasic-Bold'),
+      url('~@/assets/fonts/AndikaNewBasic/AndikaNewBasic-Bold.woff') format('woff'),
+      url('~@/assets/fonts/AndikaNewBasic/AndikaNewBasic-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Andika';
+    src: local('AndikaNewBasic Italic'), local('AndikaNewBasic-Italic'),
+      url('~@/assets/fonts/AndikaNewBasic/AndikaNewBasic-Italic.woff') format('woff'),
+      url('~@/assets/fonts/AndikaNewBasic/AndikaNewBasic-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+}
