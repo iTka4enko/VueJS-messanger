@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/messanger/',
+    publicPath: '/messenger/',
     configureWebpack: {
       optimization: {
         splitChunks: {
